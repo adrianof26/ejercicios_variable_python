@@ -1,0 +1,5 @@
+nombre=input("Deme su nombre : ")
+nombre=nombre.upper()
+numero =len(nombre)
+numero =str(numero)
+print(nombre+ " tiene " +numero)
