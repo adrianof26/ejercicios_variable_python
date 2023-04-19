@@ -1,4 +1,4 @@
- Ejercicios Power Shell sobre variables
+ Ejercicios Python sobre variables
 
 ## Ejercicio 1
 
